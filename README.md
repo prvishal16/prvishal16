@@ -39,7 +39,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 ![Profile Views](https://komarev.com/ghpvc/?username=prvishal16&color=7C3AED&style=flat&label=Profile+Views)
 
----
 
 ## 🛠️ Tech Arsenal
 
@@ -96,7 +95,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 </div>
 
----
 
 ## 🚀 Currently Learning & Building
 
@@ -131,7 +129,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 </tr>
 </table>
 
----
 ## 🚀 Featured Projects (  Full-Stack + AI / ML )
 
 
@@ -190,7 +187,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 **Stack:** `NLTK` `SpaCy` `PyTorch` `LSTM` `Flask` `Scikit-learn` `Matplotlib`
 
----
 
 ## 📊 GitHub Analytics
 
@@ -218,7 +214,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 </div>
 
----
 
 ## 🏅 Certifications
 

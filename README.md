@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;MERN+Stack+Specialist+%F0%9F%92%BB;Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Building+LLM-Powered+Products+%E2%9C%A8;Turning+Ideas+into+Scalable+Products+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)

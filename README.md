@@ -117,18 +117,19 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ---
 
 ## 🔭 Currently Learning
-
 <h2 align="center">🚀 Currently Learning & Building</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Next.js+Full-Stack+Development;Generative+AI+%7C+RAG+%7C+AI+Agents;AWS+Cloud+%7C+Docker+%7C+CI%2FCD;Advanced+Machine+Learning;Video+Editing+%26+Creative+Content+Creation" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Next.js+Full-Stack+Development;Generative+AI+%7C+RAG+%7C+AI+Agents;AWS+Cloud+Engineering;Advanced+Machine+Learning;Docker+%7C+CI%2FCD+%7C+DevOps;Video+Editing+%26+Creative+Storytelling" />
 </p>
 
-<div align="center">
+<p align="center">
+<img src="./assets/Tech-Orbit.gif" width="450">
+</p>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,python,tensorflow,pytorch,mongodb,aws,docker,git,vscode&perline=6" />
-
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,python,tensorflow,pytorch,mongodb,aws,docker,git,vscode" />
+</p>
 
 ### 🧠 Current Focus
 

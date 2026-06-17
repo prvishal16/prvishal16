@@ -228,12 +228,8 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 - ☁️ **AWS Cloud Foundations** — AWS Academy
 - 🗄️ **Data Structures & Management with MySQL** — Meta
 - 🧪 **Test-Driven Development in Java** — Coursera
-
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
----
-## 📬 Connect With Me
+ ---
+ ## 📬 Connect With Me
 
 <div align="center">
 
@@ -248,7 +244,10 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 </div>
 
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
 ---
+
 
 **⭐ If you find my work valuable, consider starring my repos — it fuels the next build! ⭐**
 </div>

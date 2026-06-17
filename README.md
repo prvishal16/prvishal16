@@ -21,7 +21,7 @@
 
 ---
 
-## 😎 I'm Vishal!
+<h2>😎 I'm Vishal!</h2>
 
 *Full-Stack Developer & AI/ML Engineer*
 

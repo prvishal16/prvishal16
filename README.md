@@ -21,7 +21,12 @@
 
 ---
 
+<p align="left">
+  <img src="https://img.shields.io/badge/About%20Me-7C3AED?style=for-the-badge" />
+</p>
+
 <h2>😎 I'm Vishal!</h2>
+
 
 *Full-Stack Developer & AI/ML Engineer*
 

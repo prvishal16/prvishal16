@@ -115,7 +115,7 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 </div>
 
 ---
-#🚀 Currently Learning & Building
+##🚀 Currently Learning & Building
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -140,7 +140,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 <br clear="left"/>
 
----
 ---
 
 ## 🚀 Featured Projects

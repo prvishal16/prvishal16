@@ -105,7 +105,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 </div>
-<br>
 
 ## 🚀 Currently Learning & Building
 

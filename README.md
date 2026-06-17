@@ -115,21 +115,30 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 </div>
 
 ---
-
-## 🔭 Currently Learning
 <h2 align="center">🚀 Currently Learning & Building</h2>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Next.js+Full-Stack+Development;Generative+AI+%7C+RAG+%7C+AI+Agents;AWS+Cloud+Engineering;Advanced+Machine+Learning;Docker+%7C+CI%2FCD+%7C+DevOps;Video+Editing+%26+Creative+Storytelling" />
-</p>
+<div align="center">
 
-<p align="center">
-<img src="./assets/Tech-Orbit.gif" width="450">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img
+    src="./Skills_Animation_White.gif"
+    width="500"
+    alt="Tech Animation">
+</picture>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,ts,python,tensorflow,pytorch,mongodb,aws,docker,git,vscode" />
-</p>
+</div>
+
+### 🧠 Current Focus
+
+- ⚡ **Next.js 15** — App Router, Server Actions, Full-Stack Architecture
+- 🤖 **Generative AI** — LangChain, RAG, AI Agents & LLM Applications
+- ☁️ **AWS Cloud** — Deployments, Scalable Architectures
+- 🧮 **Advanced DSA** — Competitive Programming & Interview Preparation
+- 🔬 **Advanced ML** — Transformers, Fine-Tuning & Vector Databases
+- 🐳 **Docker & DevOps** — CI/CD & Production Workflows
+- 🎬 **Video Editing & Content Creation**
 
 ### 🧠 Current Focus
 

@@ -115,8 +115,11 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 </div>
 
 ---
-##🚀 Currently Learning & Building
 
+## 🚀 Currently Learning & Building
+
+<div align="center">
+  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
@@ -139,14 +142,11 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 </ul>
 
 <br clear="left"/>
-
+</div>
 ---
 
 ## 🚀 Featured Projects
 
-> **Note — GitHub README doesn't support JavaScript tabs.** Use the sections below — Full-Stack projects first, then AI/ML. Click the live demo links to explore each! 👇
-
----
 
 ### 💻 Full-Stack Projects
 

@@ -121,24 +121,24 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 <h2 align="center">🚀 Currently Learning & Building</h2>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_Light.gif">
-    <img width="420" alt="Tech Animation" src="./assets/Skills_Animation_Light.gif">
-  </picture>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Next.js+Full-Stack+Development;Generative+AI+%7C+RAG+%7C+AI+Agents;AWS+Cloud+%7C+Docker+%7C+CI%2FCD;Advanced+Machine+Learning;Video+Editing+%26+Creative+Content+Creation" />
 </p>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,typescript,python,tensorflow,pytorch,mongodb,aws,docker,git,vscode&perline=6" />
+
+</div>
 
 ### 🧠 Current Focus
 
-- ⚡ **Next.js 15** — App Router, Server Actions, Full-Stack Architecture
-- 🤖 **Generative AI** — LangChain, RAG, AI Agents, LLM Integrations
-- ☁️ **Cloud Computing** — AWS, Deployment, Scalable Applications
-- 🧮 **Advanced DSA** — Competitive Problem Solving & Interview Patterns
-- 🔬 **Advanced Machine Learning** — Transformers, Fine-Tuning, Vector Databases
-- 🐳 **DevOps** — Docker, CI/CD, Production Deployments
-- 🎬 **Video Editing & Content Creation** — Motion Graphics, Creative Storytelling
-
-📚 Building projects that combine **Full Stack Development + AI + Real-world Problem Solving**
+- ⚡ Next.js & Modern Full-Stack Architecture
+- 🤖 AI Agents, RAG Systems & LLM Applications
+- ☁️ AWS Cloud & Production Deployment
+- 🧮 Advanced DSA & Interview Preparation
+- 🔬 Transformers, Fine-Tuning & Vector Search
+- 🐳 Docker, CI/CD & DevOps Practices
+- 🎬 Video Editing & Digital Content Creation
 
 
 ---

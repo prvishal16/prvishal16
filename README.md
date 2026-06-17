@@ -31,7 +31,7 @@
 
 <h2>
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-  Welcome to My Digital Workspace
+  Hello, I'm Vishal!
 </h2>
 
 *Full-Stack Developer & AI/ML Engineer*

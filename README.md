@@ -118,38 +118,28 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 ## 🔭 Currently Learning
 
-<div align="center">
+<h2 align="center">🚀 Currently Learning & Building</h2>
 
-<table>
-<tr>
-<td width="45%" align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
-</td>
-<td width="55%">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/Skills_Animation_Light.gif">
+    <img width="420" alt="Tech Animation" src="./assets/Skills_Animation_Light.gif">
+  </picture>
+</p>
 
-**🧠 Current Focus Areas**
+### 🧠 Current Focus
 
-- 🤖 **Generative AI** — LangChain, RAG Pipelines, LLM Agents
-- 🏗️ **System Design** — HLD/LLD, Microservices, Load Balancing
-- ☁️ **Cloud** — AWS Solutions Architect, EC2, S3, Lambda
-- 🧮 **DSA & CP** — Trees, Graphs, Dynamic Programming
-- 🔬 **Advanced ML** — Transformers, Fine-tuning LLMs, Vector DBs
-- 🐳 **DevOps** — Docker, CI/CD Pipelines, Container Orchestration
+- ⚡ **Next.js 15** — App Router, Server Actions, Full-Stack Architecture
+- 🤖 **Generative AI** — LangChain, RAG, AI Agents, LLM Integrations
+- ☁️ **Cloud Computing** — AWS, Deployment, Scalable Applications
+- 🧮 **Advanced DSA** — Competitive Problem Solving & Interview Patterns
+- 🔬 **Advanced Machine Learning** — Transformers, Fine-Tuning, Vector Databases
+- 🐳 **DevOps** — Docker, CI/CD, Production Deployments
+- 🎬 **Video Editing & Content Creation** — Motion Graphics, Creative Storytelling
 
-**📚 Currently Reading**
-- Designing Data-Intensive Applications
-- Deep Learning — Goodfellow et al.
+📚 Building projects that combine **Full Stack Development + AI + Real-world Problem Solving**
 
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 

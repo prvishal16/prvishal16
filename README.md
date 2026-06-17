@@ -123,10 +123,12 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 <table>
 <tr>
 <td width="45%" align="center">
-
-<!-- Animated Tech Orbit GIF using skill-icons -->
-<img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,mongodb,aws,docker,nextjs,fastapi,kubernetes,redis&perline=4" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 </td>
 <td width="55%">
 

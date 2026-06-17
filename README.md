@@ -42,7 +42,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
 
-**📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📞 +91 93981 58442**
+**📍 Hyderabad, Telangana, India &nbsp;
 
 > 💬 *Open to Full-Stack, AI/ML, and Software Engineering roles — full-time, internships, or freelance.*
 

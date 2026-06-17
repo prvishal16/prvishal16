@@ -57,6 +57,8 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 </div>
 
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">

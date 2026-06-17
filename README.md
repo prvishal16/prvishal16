@@ -139,10 +139,8 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 - 🚀 Building real-world products combining **Full Stack Development + AI**
 
 ---
-## 🚀 Featured Projects
+## 🚀 Featured Projects (  Full-Stack + AI / ML )
 
-
-### 💻 Full-Stack Projects
 
 ---
 
@@ -184,27 +182,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Stripe` `JWT`
 
----
-
-### 🤖 AI / ML Projects
-
----
-
-#### 🌿 Potato Leaf Disease Detection — Computer Vision
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
-
-> CNN + VGG16 Transfer Learning model achieving **92%+ multi-class accuracy** for early crop disease diagnosis, reducing diagnostic time by **40%**. Built during Microsoft & SAP TechSaksham Internship.
-
-**Stack:** `Python` `TensorFlow` `VGG16` `CNN` `Streamlit` `Transfer Learning` `PIL`
-
----
-
-#### 🧠 DigitWise — Handwritten Digit Recognition
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
-
-> MLP, CNN & LeNet-5 architectures benchmarked achieving **96.16% MNIST** and **71.6% CIFAR-10** accuracy. Preprocessing efficiency improved by **30%**. Built at Infosys Springboard 5.0.
-
-**Stack:** `Python` `TensorFlow` `PyTorch` `CNN` `LeNet-5` `MLP` `NumPy`
 
 ---
 

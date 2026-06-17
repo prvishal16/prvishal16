@@ -138,14 +138,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 - 🎬 **Video Editing** — Motion Graphics, Content Creation & Creative Storytelling
 - 🚀 Building real-world products combining **Full Stack Development + AI**
 
-### 📚 Currently Exploring
-
-- Advanced Next.js Ecosystem
-- AI Agent Workflows & RAG Architectures
-- Production-Ready Cloud Deployments
-- Transformer-Based Deep Learning Models
-- Creative Editing & Digital Content Production
-
 ---
 ## 🚀 Featured Projects
 

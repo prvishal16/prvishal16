@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=P%20R%20Vishal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Real-World%20Products&descAlignY=60&descSize=16&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Peddanolla%20Ragichettukindi%20Vishal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Real-World%20Products&descAlignY=60&descSize=16&animation=twinkling" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">

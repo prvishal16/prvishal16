@@ -42,22 +42,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ![Profile Views](https://komarev.com/ghpvc/?username=prvishal16&color=7C3AED&style=flat&label=Profile+Views)
 
 ---
-## 📬 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvishal200416@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-
-📍 Hyderabad, Telangana, India &nbsp;
-
-> 💬 *Open to Full-Stack, AI/ML, and Software Engineering roles — full-time, internships, or freelance.*
-
-</div>
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -248,6 +232,23 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
+---
+## 📬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvishal200416@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+
+📍 Hyderabad, Telangana, India &nbsp;
+
+> 💬 *Open to Full-Stack, AI/ML, and Software Engineering roles — full-time, internships, or freelance.*
+
+</div>
+
+---
 
 **⭐ If you find my work valuable, consider starring my repos — it fuels the next build! ⭐**
 </div>

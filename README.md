@@ -113,38 +113,40 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
-
 ---
 
 ## 🚀 Currently Learning & Building
 
 <div align="center">
-  
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Tech Animation" src="./Skills_Animation_White.gif" width="380">
+  <img alt="Tech Animation" src="./Skills_Animation_White.gif" width="450">
 </picture>
 
-<br />
-
-<h3 align="left">🧠 Current Focus</h3>
-
-<ul align="left">
-  <li>⚡ <b>Next.js 15</b> — App Router, Server Actions & Full-Stack Architecture</li>
-  <li>🤖 <b>Generative AI</b> — LangChain, RAG Pipelines, AI Agents & LLM Integrations</li>
-  <li>☁️ <b>AWS Cloud</b> — Deployment, Scalability & Production Workflows</li>
-  <li>🧮 <b>Advanced DSA</b> — Problem Solving, Competitive Programming & Interview Preparation</li>
-  <li>🔬 <b>Machine Learning</b> — Transformers, Fine-Tuning & Vector Databases</li>
-  <li>🐳 <b>Docker & DevOps</b> — CI/CD Pipelines & Containerized Applications</li>
-  <li>🎬 <b>Video Editing</b> — Motion Graphics, Content Creation & Creative Storytelling</li>
-  <li>🚀 Building real-world products combining <b>Full Stack Development + AI</b></li>
-</ul>
-
-<br clear="left"/>
 </div>
----
 
+### 🧠 Current Focus
+
+- ⚡ **Next.js 15** — App Router, Server Actions & Full-Stack Architecture
+- 🤖 **Generative AI** — LangChain, RAG Pipelines, AI Agents & LLM Integrations
+- ☁️ **AWS Cloud** — Deployment, Scalability & Production Workflows
+- 🧮 **Advanced DSA** — Problem Solving, Competitive Programming & Interview Preparation
+- 🔬 **Machine Learning** — Transformers, Fine-Tuning & Vector Databases
+- 🐳 **Docker & DevOps** — CI/CD Pipelines & Containerized Applications
+- 🎬 **Video Editing** — Motion Graphics, Content Creation & Creative Storytelling
+- 🚀 Building real-world products combining **Full Stack Development + AI**
+
+### 📚 Currently Exploring
+
+- Advanced Next.js Ecosystem
+- AI Agent Workflows & RAG Architectures
+- Production-Ready Cloud Deployments
+- Transformer-Based Deep Learning Models
+- Creative Editing & Digital Content Production
+
+---
 ## 🚀 Featured Projects
 
 

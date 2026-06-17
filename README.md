@@ -113,43 +113,33 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
-
 ---
 <h2 align="center">🚀 Currently Learning & Building</h2>
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img
-    src="./Skills_Animation_White.gif"
-    width="500"
-    alt="Tech Animation">
+  <img align="left" alt="Tech Animation" src="./Skills_Animation_White.gif" width="380">
 </picture>
 
-</div>
+<br />
 
-### 🧠 Current Focus
+<h3 align="left">🧠 Current Focus</h3>
 
-- ⚡ **Next.js 15** — App Router, Server Actions, Full-Stack Architecture
-- 🤖 **Generative AI** — LangChain, RAG, AI Agents & LLM Applications
-- ☁️ **AWS Cloud** — Deployments, Scalable Architectures
-- 🧮 **Advanced DSA** — Competitive Programming & Interview Preparation
-- 🔬 **Advanced ML** — Transformers, Fine-Tuning & Vector Databases
-- 🐳 **Docker & DevOps** — CI/CD & Production Workflows
-- 🎬 **Video Editing & Content Creation**
+<ul align="left">
+  <li>⚡ <b>Next.js 15</b> — App Router, Server Actions & Full-Stack Architecture</li>
+  <li>🤖 <b>Generative AI</b> — LangChain, RAG Pipelines, AI Agents & LLM Integrations</li>
+  <li>☁️ <b>AWS Cloud</b> — Deployment, Scalability & Production Workflows</li>
+  <li>🧮 <b>Advanced DSA</b> — Problem Solving, Competitive Programming & Interview Preparation</li>
+  <li>🔬 <b>Machine Learning</b> — Transformers, Fine-Tuning & Vector Databases</li>
+  <li>🐳 <b>Docker & DevOps</b> — CI/CD Pipelines & Containerized Applications</li>
+  <li>🎬 <b>Video Editing</b> — Motion Graphics, Content Creation & Creative Storytelling</li>
+  <li>🚀 Building real-world products combining <b>Full Stack Development + AI</b></li>
+</ul>
 
-### 🧠 Current Focus
+<br clear="left"/>
 
-- ⚡ Next.js & Modern Full-Stack Architecture
-- 🤖 AI Agents, RAG Systems & LLM Applications
-- ☁️ AWS Cloud & Production Deployment
-- 🧮 Advanced DSA & Interview Preparation
-- 🔬 Transformers, Fine-Tuning & Vector Search
-- 🐳 Docker, CI/CD & DevOps Practices
-- 🎬 Video Editing & Digital Content Creation
-
+---
 
 ---
 

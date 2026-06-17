@@ -56,7 +56,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 > 💬 *Open to Full-Stack, AI/ML, and Software Engineering roles — full-time, internships, or freelance.*
 
 </div>
----
 
 ## 🛠️ Tech Arsenal
 

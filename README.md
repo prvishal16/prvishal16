@@ -3,7 +3,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Peddanolla%20Ragichettukindi%20Vishal&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Engineer%20%7C%20Code.%20Learn.%20Build.%20Scale.&descAlignY=62&descSize=18&animation=twinkling" />
 
-<br><br>
+<br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;MERN+Stack+Specialist+%F0%9F%92%BB;Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Building+LLM-Powered+Products+%E2%9C%A8;Turning+Ideas+into+Scalable+Products+%F0%9F%9B%A0%EF%B8%8F" />
 

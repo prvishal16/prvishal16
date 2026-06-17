@@ -1,13 +1,15 @@
+<!-- Header Banner -->
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=P%20R%20Vishal&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20of%20Real-World%20Products&descAlignY=60&descSize=16&animation=twinkling" />
 
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=750&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Engineer+%F0%9F%A4%96;MERN+Stack+Specialist+%F0%9F%92%BB;Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Building+LLM-Powered+Products+%E2%9C%A8;Turning+Ideas+into+Scalable+Products+%F0%9F%9B%A0%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
+<!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvishal200416@gmail.com)
@@ -21,58 +23,36 @@
 
 ---
 
-## 🎓 About Me
+## 😎 I'm Vishal!
 
+*Full-Stack Developer & AI/ML Engineer*
+
+I'm a passionate builder who ships real products — combining **MERN Stack**, **Deep Learning**, **Computer Vision**, **NLP**, and **Generative AI** into end-to-end systems that actually work in production.
+
+- ✨ Student of life — every bug is a lesson in disguise
 - 🧑‍🎓 **B.Tech CSE (AI & ML)** @ Malla Reddy College of Engineering — **GPA: 8.72 | Graduating 2026**
-- 🤖 **AI/ML Intern** @ Microsoft & SAP — TechSaksham Program (Jan – Mar 2025)
-- 🧠 **Deep Learning Intern** @ Infosys Springboard 5.0 (Oct – Dec 2024)
-- 💼 **Full-Stack Intern** @ EY Global Delivery Services (Feb – Mar 2025)
-- 💼 **Web Dev Intern** @ VaultofCodes (Mar – Apr 2025)
-- ⚒️ **Building with** React, Next.js, Node.js, FastAPI, MongoDB, WebSockets, and LLMs
-- 🚀 **Shipped** 7+ live full-stack & AI products across Computer Vision, NLP, and GenAI
-- 🌐 **Portfolio:** [github.com/prvishal16](https://github.com/prvishal16)
+- 🤖 **AI/ML Intern** @ Microsoft & SAP — TechSaksham Program
+- 🧠 **Deep Learning Intern** @ Infosys Springboard 5.0
+- 💼 **Full-Stack Intern** @ EY Global Delivery Services
+- 💻 **Web Dev Intern** @ VaultofCodes
+- 🚀 Shipped **7+ live products** across Full-Stack, Computer Vision, NLP & GenAI
+- 🌱 Currently exploring **LangChain · RAG Pipelines · LLM Agents · System Design**
+- 🌐 Portfolio: [github.com/prvishal16](https://github.com/prvishal16)
+
+![Profile Views](https://komarev.com/ghpvc/?username=prvishal16&color=7C3AED&style=flat&label=Profile+Views)
 
 ---
-## 📬 Connect With Me
+
+## 🌐 Socials
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)
-[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvishal200416@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-
-**📍 Hyderabad, Telangana, India &nbsp;
-
-> 💬 *Open to Full-Stack, AI/ML, and Software Engineering roles — full-time, internships, or freelance.*
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvishal200416@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
 
 </div>
-
----
-
-## 💼 Experience
-
-**🔷 AI Developer Intern — Microsoft & SAP (TechSaksham CSR Program)** `Jan 2025 – Mar 2025` · Remote
-
-Built a Streamlit-based **Potato Leaf Disease Detection** system using **CNN + VGG16 Transfer Learning**, achieving **92%+ multi-class accuracy** and boosting diagnostic speed by **40%** through accelerated preprocessing and confidence-scored outputs.
-
----
-
-**🔷 Deep Learning Developer Intern — Infosys Springboard (v5.0)** `Oct 2024 – Dec 2024` · Remote
-
-Developed **DigitWise** — Handwritten Digit Recognition using **MLP, CNN, and LeNet-5** architectures, achieving **96.16% MNIST** and **71.6% CIFAR-10** accuracy. Improved preprocessing efficiency by **30%** via custom data pipelines.
-
----
-
-**🔷 Full-Stack Developer Intern — EY Global Delivery Services** `Feb 2025 – Mar 2025`
-
-Built a MERN-based recipe sharing platform with JWT auth and optimized REST APIs. Improved API response time by **15%** and reduced code redundancy by **5%**.
-
----
-
-**🔷 Web Developer Intern — VaultofCodes** `Mar 2025 – Apr 2025`
-
-Built a real-time collaborative code editor with WebSocket-based multi-user sync. Reduced latency by **15%** and improved sync reliability by **10%**.
 
 ---
 
@@ -133,81 +113,137 @@ Built a real-time collaborative code editor with WebSocket-based multi-user sync
 
 ---
 
+## 🔭 Currently Learning
+
+<div align="center">
+
+<table>
+<tr>
+<td width="45%" align="center">
+
+<!-- Animated Tech Orbit GIF using skill-icons -->
+<img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,pytorch,mongodb,aws,docker,nextjs,fastapi,kubernetes,redis&perline=4" />
+
+</td>
+<td width="55%">
+
+**🧠 Current Focus Areas**
+
+- 🤖 **Generative AI** — LangChain, RAG Pipelines, LLM Agents
+- 🏗️ **System Design** — HLD/LLD, Microservices, Load Balancing
+- ☁️ **Cloud** — AWS Solutions Architect, EC2, S3, Lambda
+- 🧮 **DSA & CP** — Trees, Graphs, Dynamic Programming
+- 🔬 **Advanced ML** — Transformers, Fine-tuning LLMs, Vector DBs
+- 🐳 **DevOps** — Docker, CI/CD Pipelines, Container Orchestration
+
+**📚 Currently Reading**
+- Designing Data-Intensive Applications
+- Deep Learning — Goodfellow et al.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
-### ⚡ Deploy.AI — Zero to Production AI Web Forge
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://deploy-ai-zero-to-production-grade.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+> **Note — GitHub README doesn't support JavaScript tabs.** Use the sections below — Full-Stack projects first, then AI/ML. Click the live demo links to explore each! 👇
+
+---
+
+### 💻 Full-Stack Projects
+
+---
+
+#### ⚡ Deploy.AI — Zero to Production AI Web Forge
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://deploy-ai-zero-to-production-grade.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
 
 > LLM-powered MERN platform that converts natural language prompts into fully functional, production-ready websites with real-time preview and one-click live deployment.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `OpenRouter LLM API` `Netlify REST API` `Web Crypto API`
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `OpenRouter LLM API` `Netlify REST API` `Web Crypto API`
 
 ---
 
-### 🤝 WorkLoom — Real-Time Freelance Collaboration Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://workloom-freelancing-platform-using-pi.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+#### 🤝 WorkLoom — Real-Time Freelance Collaboration Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://workloom-freelancing-platform-using-pi.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
 
-> WebSocket-first freelance marketplace with live bidding, real-time project collaboration, and Stripe-powered secure payments.
+> WebSocket-first freelance marketplace with live bidding, real-time collaboration, and Stripe-powered payments. Transaction success rate boosted by **25%**.
 
-`React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.io` `Stripe API`
+**Stack:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `MongoDB` `Socket.io` `Stripe API`
 
 ---
 
-### 🧑‍💼 GetHired — Talent Acquisition & Recruitment Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://get-hired-job-portal-platform.vercel.app/login)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+#### 🧑‍💼 GetHired — Talent Acquisition & Recruitment Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://get-hired-job-portal-platform.vercel.app/login)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
 
 > Full-stack recruitment platform with role-based access control for end-to-end hiring workflows via secure REST APIs.
 
-`React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `RBAC` `REST APIs`
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `RBAC` `REST APIs`
 
 ---
 
-### 🌱 BackRise Nexus — Crowdfunding Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel)](https://backrise-crowdfunding-platform-de4i.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+#### 🌱 BackRise Nexus — Crowdfunding Platform
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://backrise-crowdfunding-platform-de4i.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
 
-> Full-stack crowdfunding platform with real-time messaging, campaign analytics, and a PCI-DSS compliant Stripe pipeline that boosted transaction success rate by **25%**.
+> Full-stack crowdfunding platform with real-time messaging, campaign analytics, and a PCI-DSS compliant payment pipeline.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Stripe` `JWT`
-
----
-
-### 🌿 Potato Leaf Disease Detection — Computer Vision AI
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
-
-> CNN + VGG16 Transfer Learning model achieving **92%+ multi-class accuracy** for early crop disease diagnosis, reducing diagnostic time by **40%**.
-
-`Python` `TensorFlow` `VGG16` `CNN` `Streamlit` `Transfer Learning` `PIL`
+**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Stripe` `JWT`
 
 ---
 
-### 🧠 EnviroClass AI — Waste Classification System
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
-
-> Benchmarked VGG16, ResNet50, and InceptionV3 on 8,300+ curated images across 8+ waste categories achieving **90%+ accuracy**, with Flask-based real-time prediction and YouTube-powered recycling guidance.
-
-`VGG16` `ResNet50` `InceptionV3` `TensorFlow` `Flask` `CNN` `Google API`
+### 🤖 AI / ML Projects
 
 ---
 
-### 💰 FinCortex Engine — Cognitive Financial Analytics
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+#### 🌿 Potato Leaf Disease Detection — Computer Vision
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
 
-> Advanced financial analytics system with Flask + MySQL + SQLAlchemy ORM, Dash dashboards, voice-controlled queries, and automated Airflow pipelines — boosting response efficiency by **35%**.
+> CNN + VGG16 Transfer Learning model achieving **92%+ multi-class accuracy** for early crop disease diagnosis, reducing diagnostic time by **40%**. Built during Microsoft & SAP TechSaksham Internship.
 
-`Flask` `MySQL` `SQLAlchemy` `Scikit-learn` `Plotly Dash` `Pocketsphinx STT` `Google API`
+**Stack:** `Python` `TensorFlow` `VGG16` `CNN` `Streamlit` `Transfer Learning` `PIL`
 
 ---
 
-### 🫀 GraftLuminex Intelligence — NLP Organ Transplant Predictor
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+#### 🧠 DigitWise — Handwritten Digit Recognition
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
 
-> NLP-driven LSTM model predicting organ transplant success rates from 30+ patient records. Improved accuracy by **20%** and processing efficiency by **35%** via advanced tokenization, ROC-AUC metrics, and real-time risk segmentation.
+> MLP, CNN & LeNet-5 architectures benchmarked achieving **96.16% MNIST** and **71.6% CIFAR-10** accuracy. Preprocessing efficiency improved by **30%**. Built at Infosys Springboard 5.0.
 
-`NLTK` `SpaCy` `PyTorch` `LSTM` `Flask` `Scikit-learn` `Matplotlib`
+**Stack:** `Python` `TensorFlow` `PyTorch` `CNN` `LeNet-5` `MLP` `NumPy`
+
+---
+
+#### 🌍 EnviroClass AI — Waste Classification System
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+
+> Benchmarked VGG16, ResNet50 & InceptionV3 on **8,300+ images** across **8+ waste categories**, achieving **90%+ accuracy** with Flask real-time prediction and YouTube recycling guidance.
+
+**Stack:** `VGG16` `ResNet50` `InceptionV3` `TensorFlow` `Flask` `CNN` `Google API`
+
+---
+
+#### 💰 FinCortex Engine — Cognitive Financial Analytics
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+
+> Advanced financial analytics system with Flask + MySQL + SQLAlchemy ORM, Dash dashboards, voice-controlled queries, and Airflow pipelines — boosting response efficiency by **35%**.
+
+**Stack:** `Flask` `MySQL` `SQLAlchemy` `Scikit-learn` `Plotly Dash` `Pocketsphinx STT` `Google API`
+
+---
+
+#### 🫀 GraftLuminex Intelligence — NLP Organ Transplant Predictor
+[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
+
+> NLP-driven LSTM model predicting organ transplant success from **30+ patient records**. Improved accuracy by **20%** and efficiency by **35%** via advanced tokenization, ROC-AUC & real-time risk segmentation.
+
+**Stack:** `NLTK` `SpaCy` `PyTorch` `LSTM` `Flask` `Scikit-learn` `Matplotlib`
 
 ---
 
@@ -215,34 +251,27 @@ Built a real-time collaborative code editor with WebSocket-based multi-user sync
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prvishal16&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&hide=contribs"/>
+<!-- Stats Card — no commit count to avoid error -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prvishal16&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&count_private=true&hide=contribs,prs" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvishal16&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&hide=jupyter%20notebook"/>
+<!-- Top Languages — hide Jupyter -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvishal16&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=ffffff&hide=jupyter%20notebook,html" />
 
 </div>
 
 <div align="center">
 
+<!-- Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=prvishal16&theme=radical&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6C37&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
+<!-- Contribution Graph — using the neon green style like the screenshot -->
 <div align="center">
 
-[![Vishal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prvishal16&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FF6C37&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prvishal16&bg_color=0d1117&color=ADFF2F&line=ADFF2F&point=ffffff&area=true&area_color=ADFF2F&hide_border=true&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
----
-
-## 🔭 Currently Working On
-
-| 🧠 Area | 📚 Focus |
-|---|---|
-| 🤖 Generative AI | LangChain · RAG Pipelines · LLM Agents |
-| 🏗️ System Design | HLD/LLD · Microservices · Caching · Load Balancing |
-| ☁️ Cloud | AWS Solutions Architect · EC2 · S3 · Lambda |
-| 🧮 DSA | Trees · Graphs · Dynamic Programming · CP |
 
 ---
 
@@ -253,11 +282,27 @@ Built a real-time collaborative code editor with WebSocket-based multi-user sync
 - 🗄️ **Data Structures & Management with MySQL** — Meta
 - 🧪 **Test-Driven Development in Java** — Coursera
 
+---
+
+## 📬 Connect With Me
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prvishal16)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prvishal200416@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prvishal16)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
+
+**📍 Hyderabad, Telangana, India &nbsp;|&nbsp; 📞 +91 93981 58442**
+
+> 💬 *Open to Full-Stack, AI/ML, and Software Engineering roles — full-time, internships, or freelance.*
+
+</div>
+
+---
+
+<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
 
 **⭐ If you find my work valuable, consider starring my repos — it fuels the next build! ⭐**
-
 </div>

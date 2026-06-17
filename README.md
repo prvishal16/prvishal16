@@ -113,34 +113,36 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
+
 ---
 <h2 align="center">🚀 Currently Learning & Building</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="Tech Animation" src="./Skills_Animation_White.gif" width="380">
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+    <img alt="Tech Animation" src="./Skills_Animation_White.gif" width="450">
+  </picture>
+</div>
 
-<br />
+<table align="center">
+<tr>
+<td>
 
-<h3 align="left">🧠 Current Focus</h3>
+### 🧠 Current Focus
 
-<ul align="left">
-  <li>⚡ <b>Next.js 15</b> — App Router, Server Actions & Full-Stack Architecture</li>
-  <li>🤖 <b>Generative AI</b> — LangChain, RAG Pipelines, AI Agents & LLM Integrations</li>
-  <li>☁️ <b>AWS Cloud</b> — Deployment, Scalability & Production Workflows</li>
-  <li>🧮 <b>Advanced DSA</b> — Problem Solving, Competitive Programming & Interview Preparation</li>
-  <li>🔬 <b>Machine Learning</b> — Transformers, Fine-Tuning & Vector Databases</li>
-  <li>🐳 <b>Docker & DevOps</b> — CI/CD Pipelines & Containerized Applications</li>
-  <li>🎬 <b>Video Editing</b> — Motion Graphics, Content Creation & Creative Storytelling</li>
-  <li>🚀 Building real-world products combining <b>Full Stack Development + AI</b></li>
-</ul>
+- ⚡ Next.js 15
+- 🤖 Generative AI & LLMs
+- ☁️ AWS Cloud
+- 🧮 Advanced DSA
+- 🔬 Machine Learning
+- 🐳 Docker & DevOps
+- 🎬 Video Editing
+- 🚀 Full Stack + AI Products
 
-<br clear="left"/>
-
----
-
+</td>
+</tr>
+</table>
 ---
 
 ## 🚀 Featured Projects

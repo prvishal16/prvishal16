@@ -113,36 +113,45 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 </div>
+
 ---
 
 ## 🚀 Currently Learning & Building
 
-<div align="center">
+<table>
+<tr>
+
+<td width="42%" align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
   <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img alt="Tech Animation" src="./Skills_Animation_White.gif" width="450">
+  <img alt="Tech Animation" src="./Skills_Animation_White.gif" width="320">
 </picture>
 
-</div>
+</td>
+
+<td width="58%">
 
 ### 🧠 Current Focus
 
 - ⚡ **Next.js 15** — App Router, Server Actions & Full-Stack Architecture
-- 🤖 **Generative AI** — LangChain, RAG Pipelines, AI Agents & LLM Integrations
+- 🤖 **Generative AI** — LangChain, RAG, AI Agents & LLM Integrations
 - ☁️ **AWS Cloud** — Deployment, Scalability & Production Workflows
-- 🧮 **Advanced DSA** — Problem Solving, Competitive Programming & Interview Preparation
+- 🧮 **Advanced DSA** — Competitive Programming & Interview Preparation
 - 🔬 **Machine Learning** — Transformers, Fine-Tuning & Vector Databases
 - 🐳 **Docker & DevOps** — CI/CD Pipelines & Containerized Applications
-- 🎬 **Video Editing** — Motion Graphics, Content Creation & Creative Storytelling
-- 🚀 Building real-world products combining **Full Stack Development + AI**
+- 🎬 **Video Editing** — Motion Graphics & Creative Storytelling
+- 🚀 Building products combining **Full Stack Development + AI**
+
+</td>
+
+</tr>
+</table>
 
 ---
 ## 🚀 Featured Projects (  Full-Stack + AI / ML )
 
-
----
 
 #### ⚡ Deploy.AI — Zero to Production AI Web Forge
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://deploy-ai-zero-to-production-grade.vercel.app/)
@@ -171,17 +180,6 @@ I'm a passionate builder who ships real products — combining **MERN Stack**, *
 > Full-stack recruitment platform with role-based access control for end-to-end hiring workflows via secure REST APIs.
 
 **Stack:** `React.js` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `RBAC` `REST APIs`
-
----
-
-#### 🌱 BackRise Nexus — Crowdfunding Platform
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-000000?style=for-the-badge&logo=vercel)](https://backrise-crowdfunding-platform-de4i.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github)](https://github.com/prvishal16)
-
-> Full-stack crowdfunding platform with real-time messaging, campaign analytics, and a PCI-DSS compliant payment pipeline.
-
-**Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `Razorpay` `Stripe` `JWT`
-
 
 ---
 
